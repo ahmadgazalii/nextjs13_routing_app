@@ -1,3 +1,5 @@
+/* eslint-disable react/display-name */
+
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from './page.module.css'
